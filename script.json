@@ -1,8 +1,11 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Daniel, a Talent Developer and Experience Designer based in NYC.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "HELLO": "Hey, I'm so glad you set ZumbrunnenBot up! Do you want to learn more about Daniel? %[Tell him](postback:twitter)",    
+    "YES": "Cool!  There's lots to learn.  Hey, I'm so glad you set ZumbrunnenBot up! Do you want to tell Daniel that you're talking to his bot? %[Tell him](postback:twitter)",
+    "HI": "Hey, I'm so glad you set ZumbrunnenBot up! Do you want to tell Daniel that you're talking to his bot? %[Tell him](postback:twitter)",
+    "TELL HIM": "Let's tweet @ Daniel so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Daniel](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
+    "EDUCATION": "I'm reading and learning things all the time (like how to make ZumbrunnenBot), but if you're interested in degrees and thing, I got my BBA in Management from the University of Georgia and my MS in Human Resource Management from Florida International University.",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, ZumbrunnenBot is back."
+    
 }
